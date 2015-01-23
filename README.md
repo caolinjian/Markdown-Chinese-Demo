@@ -57,7 +57,14 @@
 ```
 ```python
     s = "Python syntax highlighting"
-    print s
+    print(s)
+```
+```ruby
+	i = 0
+	until i > 5  do
+		puts("Inside the loop i = #i" )
+    	i +=1;
+    end
 ```
 ### 链接
 1.[点击这里你可以链接到www.google.com](http://www.google.com)<br />
